@@ -1,0 +1,56 @@
+/* wfs.css */
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  /* Heading styles */
+  h1 {
+    color: #333;
+    text-align: center;
+  }
+  
+  h3 {
+    color: #666;
+    margin-top: 20px;
+  }
+  
+  /* Image styles */
+  img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Paragraph styles */
+  p {
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  
+  /* List styles */
+  ul,
+  ol {
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+  
+  /* List item styles */
+  li {
+    margin-bottom: 5px;
+  }
+  
+  /* Link styles */
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
